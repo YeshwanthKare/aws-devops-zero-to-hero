@@ -28,5 +28,6 @@ artifacts:
   files:
     - '**/*'
   base-directory: ../simple-python-app
+  name: sample-python-app
   
   
